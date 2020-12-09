@@ -163,6 +163,7 @@ debugContainer:
 
 # identity configuration
 identity:
+  priorityClassName: ""
   issuer:
     scheme: linkerd.io/tls
 
